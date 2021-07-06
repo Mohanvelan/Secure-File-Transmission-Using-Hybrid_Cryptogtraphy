@@ -1,0 +1,1 @@
+b'AES\n - 256 bit data\n - 128/196/256 bit symmetric key\n\nECC\n - private key - 256 bits (32 bytes, 64 hex digits)\n - public key - 257 bits (33 bytes, 66 hex digits)9d8d5ca199bc273e1b185d91390ba329160'
